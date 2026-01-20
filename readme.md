@@ -18,9 +18,6 @@ Automatically generate **comprehensive unit tests** for your Python code using *
 - ⚙️ Configuration  
 - 🧪 Test Generation  
 - 🛠️ Development  
-- 🤝 Contributing  
-- 📄 License  
-- 🙏 Acknowledgments  
 
 ---
 
